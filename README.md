@@ -98,7 +98,7 @@ Before running this module, make sure you have:
 
 ## GitHub Repository
 
-[https://github.com/MdFoysalMahmud372/odoo-student-management](https://github.com/MdFoysalMahmud372/student_management_project/tree/main)
+https://github.com/MdFoysalMahmud372/student_management_project/tree/main
 
 
 
